@@ -17,4 +17,4 @@ Includes data preprocessing, EDA, model tuning, and evaluation.
 ## 🚀 How to Run
 1. Clone repo:
    ```bash
-   git clone https://github.com/YourUsername/California-Housing-Price-Prediction.git
+   git clone https://github.com/PiotrSzymaczekkk/California-Housing-Price-Prediction.git
